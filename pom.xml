@@ -7,6 +7,9 @@
 
 	<name>petclinic</name>
 	<packaging>war</packaging>
+	
+	<!-- -->
+	
 
 	<properties>
 
